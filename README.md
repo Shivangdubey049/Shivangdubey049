@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-I'm a first-year **B.Tech CSE (AI/ML)** student from Ghaziabad. I use GitHub to build projects, practice what I learn, and share useful code and notes for fellow engineering students.
+I'm a third-year **B.Tech CSE (AI/ML)** student from Ghaziabad. I use GitHub to build projects, practice what I learn, and share useful code and notes for fellow engineering students.
 
 - 📚 **Sharing:** C programming notes and university-important questions for B.Tech students
 - 🔐 **Exploring:** networking, cybersecurity and ethical hacking
