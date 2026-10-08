@@ -31,9 +31,9 @@
 ╔══════════════════════════════════════════════════════════╗
 ║ SHIVANG // OPERATOR FILE                                 ║
 ╠══════════════════════════════════════════════════════════╣
-║ OPERATOR    Shivang Dubey  (@Shivangdubey049)            ║
+║ OPERATOR    Shivang Dubey (kali@zhivang)                 ║
 ║ CLASS       B.Tech CSE (AI/ML) · Year 3                  ║
-║ BASE        Ghaziabad, India                             ║
+║ Location    Ghaziabad, India                             ║
 ║ SPECIALITY  Pentesting · Network Security · Analysis     ║
 ║ CODE        Python · C · Java · AIML                     ║
 ║ STATUS      ● ONLINE — learning in public                ║
@@ -173,7 +173,6 @@
 
 <img src="https://streak-stats.demolab.com/?user=Shivangdubey049&background=0A0E14&border=FF2E63&ring=00FF9C&fire=00E5FF&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivangdubey049&bg_color=0a0e14&color=00ff9c&line=00e5ff&point=ffffff&area=true&area_color=00ff9c&hide_border=true" width="98%" alt="activity graph" />
 
 <img src="https://raw.githubusercontent.com/Shivangdubey049/Shivangdubey049/output/github-snake-dark.svg" width="98%" alt="contribution snake" />
 
