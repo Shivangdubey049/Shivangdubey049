@@ -15,7 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivangdubey049)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivangdubeyy)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4yNDQgMi4yNWgzLjMwOGwtNy4yMjcgOC4yNiA4LjUwMiAxMS4yNEgxNi4xN2wtNS4yMTQtNi44MTdMNC45OSAyMS43NUgxLjY4bDcuNzMtOC44MzVMMS4yNTQgMi4yNUg4LjA4bDQuNzEzIDYuMjMxem0tMS4xNjEgMTcuNTJoMS44MzNMNy4wODQgNC4xMjZINS4xMTd6Ii8%2BPC9zdmc%2B&logoColor=white)](https://x.com/Shivangdubey049)
-![Visitors](https://komarev.com/ghpvc/?username=Shivangdubey049&label=VISITORS&color=00ff9c&labelColor=0a0e14&style=for-the-badge)
 
 ![Pentesting](https://img.shields.io/badge/FOCUS-PENETRATION_TESTING-00ff9c?style=flat-square&labelColor=0a0e14)
 ![Network](https://img.shields.io/badge/FOCUS-NETWORK_SECURITY-00e5ff?style=flat-square&labelColor=0a0e14)
@@ -36,9 +35,7 @@
 ║ CLASS       B.Tech CSE (AI/ML) · Year 3                  ║
 ║ BASE        Ghaziabad, India                             ║
 ║ SPECIALITY  Pentesting · Network Security · Analysis     ║
-║ MISSION     SIH26153 · OracleShield · NTRO               ║
-║ CODE        Python · C · Java · TypeScript               ║
-║ RULES       Authorised targets only                      ║
+║ CODE        Python · C · Java · AIML                     ║
 ║ STATUS      ● ONLINE — learning in public                ║
 ╚══════════════════════════════════════════════════════════╝
 ```
