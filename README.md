@@ -1,50 +1,77 @@
-<!-- Save as README.md in a public repo named exactly: Shivangdubey049 -->
+<!--
+  Profile README for Shivangdubey049
+  Repo name must be exactly: Shivangdubey049
+  Files: README.md, assets/terminal.svg, .github/workflows/snake.yml
+-->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e14,100:0d1f1a&height=190&section=header&text=SHIVANG%20DUBEY&fontSize=52&fontColor=00ff9c&fontAlignY=42&desc=%5B%20Offensive%20Security%20%C2%B7%20Network%20Defence%20%C2%B7%20AI%20for%20Cyber%20%5D&descAlignY=68&descSize=17&descColor=8b949e" width="100%" alt="Shivang Dubey" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e14,50:0d1f1a,100:0a0e14&height=170&section=header&text=SHIVANG%20DUBEY&fontSize=56&fontColor=00ff9c&fontAlignY=45&animation=twinkling&desc=%2F%2F%20OFFENSIVE%20SECURITY%20%C2%B7%20NETWORK%20DEFENCE%20%C2%B7%20AI%20FOR%20CYBER&descAlignY=72&descSize=16&descColor=00e5ff" width="100%" alt="Shivang Dubey" />
 
 <div align="center">
 
-<a href="https://github.com/Shivangdubey049"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=00FF9C&background=0A0E1400&center=true&vCenter=true&width=720&height=40&lines=root%40shivang%3A~%24+whoami;B.Tech+CSE+(AI%2FML)+%7C+Security+Analyst+in+the+making;root%40shivang%3A~%24+cat+mission.txt;Break+it+ethically.+Secure+it+properly.;SIH26153+%C2%B7+OracleShield+%C2%B7+NTRO+problem+statement" alt="typing" /></a>
+<img src="./assets/terminal.svg" width="860" alt="Animated terminal" />
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivangdubey049)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivangdubeyy)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4yNDQgMi4yNWgzLjMwOGwtNy4yMjcgOC4yNiA4LjUwMiAxMS4yNEgxNi4xN2wtNS4yMTQtNi44MTdMNC45OSAyMS43NUgxLjY4bDcuNzMtOC44MzVMMS4yNTQgMi4yNUg4LjA4bDQuNzEzIDYuMjMxem0tMS4xNjEgMTcuNTJoMS44MzNMNy4wODQgNC4xMjZINS4xMTd6Ii8%2BPC9zdmc%2B&logoColor=white)](https://x.com/Shivangdubey049)
-![Views](https://komarev.com/ghpvc/?username=Shivangdubey049&label=VISITORS&color=00ff9c&labelColor=0a0e14&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=Shivangdubey049&label=VISITORS&color=00ff9c&labelColor=0a0e14&style=for-the-badge)
+
+![Pentesting](https://img.shields.io/badge/FOCUS-PENETRATION_TESTING-00ff9c?style=flat-square&labelColor=0a0e14)
+![Network](https://img.shields.io/badge/FOCUS-NETWORK_SECURITY-00e5ff?style=flat-square&labelColor=0a0e14)
+![Analysis](https://img.shields.io/badge/FOCUS-SECURITY_ANALYSIS-ff2e63?style=flat-square&labelColor=0a0e14)
+![SIH](https://img.shields.io/badge/SIH26153-OracleShield-ffd600?style=flat-square&labelColor=0a0e14)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,50:00e5ff,100:ff2e63&height=2&section=header" width="100%" alt="" />
 
-## `> whoami`
+## ⚡ `OPERATOR FILE`
 
-```bash
-$ cat shivang.profile
-name        : Shivang Dubey
-role        : B.Tech CSE (AI/ML), 3rd year
-location    : Ghaziabad, India
-focus       : penetration testing | network security | security analysis
-currently   : building AI-driven attack forecasting (OracleShield)
-learning    : web app pentesting, traffic analysis, CTF fundamentals
-ethics      : only systems I own or am authorised to test
-status      : [##########----------] levelling up
+```text
+╔══════════════════════════════════════════════════════════╗
+║ SHIVANG // OPERATOR FILE                                 ║
+╠══════════════════════════════════════════════════════════╣
+║ OPERATOR    Shivang Dubey  (@Shivangdubey049)            ║
+║ CLASS       B.Tech CSE (AI/ML) · Year 3                  ║
+║ BASE        Ghaziabad, India                             ║
+║ SPECIALITY  Pentesting · Network Security · Analysis     ║
+║ MISSION     SIH26153 · OracleShield · NTRO               ║
+║ CODE        Python · C · Java · TypeScript               ║
+║ RULES       Authorised targets only                      ║
+║ STATUS      ● ONLINE — learning in public                ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
----
+## 🎯 `SKILL MATRIX`
 
-## `> ls ~/focus-areas`
+| Domain | What I'm working on | Status |
+|---|---|---|
+| 🕵️ **Reconnaissance** | Nmap scanning, service enumeration, OSINT basics | 🟡 Learning |
+| 🌐 **Network Analysis** | Wireshark, traffic patterns, intrusion detection data | 🟢 Active |
+| 🧨 **Web App Pentesting** | Burp Suite, OWASP Top 10 labs | 🟡 Learning |
+| 🤖 **AI for Cyber Defence** | LSTM attack forecasting, RandomForest detection | 🟢 Active |
+| 🗺️ **Threat Modelling** | MITRE ATT&CK stage mapping, risk estimation | 🟢 Active |
+| ⛓️ **Audit & Integrity** | SHA-256 hash-chained tamper-evident logging | 🟢 Active |
+| 🏴 **CTFs & Labs** | TryHackMe / Hack The Box, write-ups | 🔵 Next up |
 
-| 🎯 Area | 🧰 What I'm doing |
-|---|---|
-| **Penetration Testing** | Learning the full methodology: recon, scanning, exploitation, post-exploitation and reporting |
-| **Network Security** | Packet analysis, intrusion detection, understanding how attackers move through a network |
-| **Security Analysis** | Reading traffic and logs, mapping behaviour to MITRE ATT&CK, writing clear findings |
-| **AI for Cyber Defence** | Using ML to detect and forecast attacks instead of only reacting to them |
+<sub>🟢 Active &nbsp;·&nbsp; 🟡 Learning &nbsp;·&nbsp; 🔵 Planned</sub>
 
----
+### 🔗 Kill chain I'm training across
 
-## `> ./toolkit --list`
+<div align="center">
+
+![Recon](https://img.shields.io/badge/01-RECON-00ff9c?style=for-the-badge&labelColor=0a0e14)
+![Scan](https://img.shields.io/badge/02-SCAN-00e5ff?style=for-the-badge&labelColor=0a0e14)
+![Exploit](https://img.shields.io/badge/03-EXPLOIT-ffd600?style=for-the-badge&labelColor=0a0e14)
+![Post](https://img.shields.io/badge/04-POST--EXPLOIT-ff9100?style=for-the-badge&labelColor=0a0e14)
+![Report](https://img.shields.io/badge/05-REPORT-ff2e63?style=for-the-badge&labelColor=0a0e14)
+
+</div>
+
+## 🧰 `TOOLKIT`
+
+<div align="center">
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
@@ -54,7 +81,7 @@ status      : [##########----------] levelling up
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -65,93 +92,148 @@ status      : [##########----------] levelling up
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+</div>
 
-## `> cat flagship-project.md`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,50:00e5ff,100:ff2e63&height=2&section=header" width="100%" alt="" />
 
-### 🛡️ [OracleShield](https://github.com/Shivangdubey049/OracleShield) · SIH26153 · NTRO
-
-**AI-based network attack forecasting with progressive world models.**
-
-A traditional IDS asks *"what attack is happening now?"* OracleShield asks *"given the network state now, where is the threat likely to move next?"*
-
-```text
-Network Traffic -> State S_t -> RandomForest detection  ─┐
-                              └> LSTM world model P(S_t+1)┴> Forward rollout
-        -> Risk estimate -> MITRE ATT&CK stage -> SHA-256 audit chain -> Streamlit SOC UI
-```
-
-- 🔮 LSTM world model that predicts the next network state and attack-stage distribution
-- 🧠 Persistent threat memory for recurring attacker trajectories
-- 🗺️ Heuristic mapping of attack categories to MITRE ATT&CK stages
-- ⛓️ Tamper-evident SHA-256 hash-chained audit ledger with a live tamper demo
-- 📊 Trained on NSL-KDD (148,517 records) with macro precision, recall and F1 reported
-
-`Python` `PyTorch` `scikit-learn` `Streamlit` `LSTM` `MITRE ATT&CK`
-
----
-
-## `> ls ~/projects`
+## 🛡️ `FLAGSHIP // ORACLESHIELD`
 
 <div align="center">
 
-[![OracleShield](https://github-readme-stats.vercel.app/api/pin/?username=Shivangdubey049&repo=OracleShield&bg_color=0a0e14&title_color=00ff9c&text_color=c9d1d9&icon_color=00e5ff&border_color=1f2937)](https://github.com/Shivangdubey049/OracleShield)
-[![autoattendify](https://github-readme-stats.vercel.app/api/pin/?username=Shivangdubey049&repo=autoattendify&bg_color=0a0e14&title_color=00ff9c&text_color=c9d1d9&icon_color=00e5ff&border_color=1f2937)](https://github.com/Shivangdubey049/autoattendify)
+[![OracleShield](https://github-readme-stats.vercel.app/api/pin/?username=Shivangdubey049&repo=OracleShield&bg_color=0a0e14&title_color=00ff9c&text_color=c9d1d9&icon_color=00e5ff&border_color=00ff9c)](https://github.com/Shivangdubey049/OracleShield)
 
+**SIH26153 · National Technical Research Organisation (NTRO)**
+
+</div>
+
+> **Traditional IDS:** *what attack is happening now?*
+> **OracleShield:** *given the network state now, where will the threat move next?*
+
+```text
+                 ┌──────────────┐
+  Network  ───►  │ State  S_t   │
+  Traffic        └──────┬───────┘
+                 ┌──────┴────────────────┐
+                 ▼                       ▼
+        ┌────────────────┐     ┌───────────────────┐
+        │ RandomForest   │     │ LSTM World Model  │
+        │ detection      │     │ P(S_t+1 | S_t…)   │
+        └───────┬────────┘     └─────────┬─────────┘
+                └───────────┬────────────┘
+                            ▼
+                 Forward state rollout
+                            ▼
+              Risk estimate ─► MITRE ATT&CK stage
+                            ▼
+              SHA-256 audit chain ─► Streamlit SOC UI
+```
+
+<details>
+<summary><b>🔍 What it does (click to expand)</b></summary>
+
+<br/>
+
+- 🔮 **World model:** an LSTM predicts the next network state and the attack-stage distribution
+- 🧠 **Threat memory:** persistent prototypes for recurring attacker trajectories
+- 🗺️ **ATT&CK mapping:** probe → Reconnaissance, r2l → Initial Access, u2r → Privilege Escalation, dos → Impact
+- ⛓️ **Tamper-evident ledger:** non-benign events go into a SHA-256 hash chain, with a live tamper demo in the UI
+- 📊 **Honest evaluation:** NSL-KDD (148,517 records) with macro precision, recall and F1, not accuracy alone
+- 🧪 **Next step:** timestamped telemetry (CIC-IDS2018 / CTU-13) for real attacker-progression timelines
+
+</details>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-e11d48?style=flat-square)
+
+## 🗂️ `OTHER BUILDS`
+
+<div align="center">
+
+[![autoattendify](https://github-readme-stats.vercel.app/api/pin/?username=Shivangdubey049&repo=autoattendify&bg_color=0a0e14&title_color=00ff9c&text_color=c9d1d9&icon_color=00e5ff&border_color=1f2937)](https://github.com/Shivangdubey049/autoattendify)
 [![carbon-wise-commute](https://github-readme-stats.vercel.app/api/pin/?username=Shivangdubey049&repo=carbon-wise-commute&bg_color=0a0e14&title_color=00ff9c&text_color=c9d1d9&icon_color=00e5ff&border_color=1f2937)](https://github.com/Shivangdubey049/carbon-wise-commute)
+
 [![curivo](https://github-readme-stats.vercel.app/api/pin/?username=Shivangdubey049&repo=curivo&bg_color=0a0e14&title_color=00ff9c&text_color=c9d1d9&icon_color=00e5ff&border_color=1f2937)](https://github.com/Shivangdubey049/curivo)
 
 </div>
 
-| Project | Summary |
+| Project | Note |
 |---|---|
-| 🛡️ **OracleShield** | AI network attack forecasting built for SIH26153 (NTRO) |
-| 🗓️ **[autoattendify](https://autoattendifyy.vercel.app)** | Next.js and TypeScript web app, built for SIH 2025, deployed on Vercel |
-| 🌱 **carbon-wise-commute** | React, TypeScript and Supabase app for greener commuting choices |
+| 🗓️ **[autoattendify](https://autoattendifyy.vercel.app)** | Next.js + TypeScript web app built for SIH 2025, live on Vercel |
+| 🌱 **carbon-wise-commute** | React + TypeScript + Supabase app for greener commuting |
 | 🧠 **curivo** | My first project: a mental-health-focused web app |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,50:00e5ff,100:ff2e63&height=2&section=header" width="100%" alt="" />
 
-## `> ./stats --live`
+## 📡 `TELEMETRY`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shivangdubey049&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=1f2937&bg_color=0a0e14&title_color=00ff9c&text_color=c9d1d9&icon_color=00e5ff&ring_color=00ff9c" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivangdubey049&layout=compact&langs_count=6&hide_border=false&border_color=1f2937&bg_color=0a0e14&title_color=00ff9c&text_color=c9d1d9" alt="languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shivangdubey049&show_icons=true&include_all_commits=true&count_private=true&border_color=00ff9c&bg_color=0a0e14&title_color=00ff9c&text_color=c9d1d9&icon_color=00e5ff&ring_color=00e5ff" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivangdubey049&layout=compact&langs_count=6&border_color=00e5ff&bg_color=0a0e14&title_color=00e5ff&text_color=c9d1d9" alt="languages" />
 
-<img src="https://streak-stats.demolab.com/?user=Shivangdubey049&background=0A0E14&border=1F2937&ring=00FF9C&fire=00E5FF&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=Shivangdubey049&background=0A0E14&border=FF2E63&ring=00FF9C&fire=00E5FF&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivangdubey049&bg_color=0a0e14&color=00ff9c&line=00e5ff&point=ffffff&area=true&area_color=00ff9c&hide_border=true" width="98%" alt="activity graph" />
+
+<img src="https://raw.githubusercontent.com/Shivangdubey049/Shivangdubey049/output/github-snake-dark.svg" width="98%" alt="contribution snake" />
 
 </div>
 
----
+## 🗺️ `MISSION ROADMAP // 2026`
 
-## `> cat roadmap_2026.md`
+<details open>
+<summary><b>🏴 Offensive security</b></summary>
 
-**Offensive security path**
+<br/>
+
 - [ ] Finish TryHackMe: Pre-Security → Jr Penetration Tester
-- [ ] Solve 20+ rooms or machines on TryHackMe / Hack The Box
-- [ ] Master Nmap, Wireshark and Burp Suite on lab targets
+- [ ] Complete 20+ rooms or machines on TryHackMe / Hack The Box
+- [ ] Get fluent with Nmap, Wireshark and Burp Suite on lab targets
 - [ ] Play beginner CTFs and publish write-ups in a `ctf-writeups` repo
-- [ ] Study for a junior pentest certification (eJPT or similar)
+- [ ] Prepare for a junior pentest certification (eJPT or similar)
 
-**Security analysis**
-- [ ] Build a home lab (Kali + vulnerable VMs) and document it
-- [ ] Learn log analysis and basic SIEM concepts
-- [ ] Map findings to MITRE ATT&CK and OWASP Top 10
+</details>
 
-**Build and ship**
-- [ ] Upgrade OracleShield with timestamped telemetry (CIC-IDS2018 / CTU-13)
-- [ ] Add proper READMEs and screenshots to every project
+<details open>
+<summary><b>🔬 Security analysis</b></summary>
+
+<br/>
+
+- [ ] Build a documented home lab (Kali + intentionally vulnerable VMs)
+- [ ] Learn log analysis and core SIEM concepts
+- [ ] Map findings to MITRE ATT&CK and the OWASP Top 10
+
+</details>
+
+<details open>
+<summary><b>🚀 Build &amp; ship</b></summary>
+
+<br/>
+
+- [ ] Upgrade OracleShield with timestamped telemetry
+- [ ] Add polished READMEs and screenshots to every project
 - [ ] Make my first open-source contribution to a security tool
 
----
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,50:00e5ff,100:ff2e63&height=2&section=header" width="100%" alt="" />
 
 <div align="center">
 
+### 📬 Let's connect
+
+Working on security, AI or SIH-style projects? Open to CTF teammates, study partners and collaboration.
+[**LinkedIn**](https://www.linkedin.com/in/shivangdubey049) &nbsp;·&nbsp; [**X**](https://x.com/Shivangdubey049) &nbsp;·&nbsp; [**Instagram**](https://www.instagram.com/shivangdubeyy)
+
+<br/>
+
 > ⚠️ **Ethical hacking only.** I practise on labs, CTFs and systems I own or have written permission to test.
 
-⭐ **Building OracleShield for SIH26153 (NTRO). If you like AI-driven cyber defence, star the repo and follow along!**
+⭐ **Building OracleShield for SIH26153 (NTRO). If you like AI-driven cyber defence, star the repo and follow along.**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1f1a,100:0a0e14&height=90&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e14,50:0d1f1a,100:0a0e14&height=90&section=footer&text=stay%20curious%20%C2%B7%20stay%20ethical&fontSize=18&fontColor=00ff9c&fontAlignY=60&animation=twinkling" width="100%" alt="" />
 
 </div>
