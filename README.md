@@ -22,7 +22,7 @@
 ```bash
 $ cat shivang.profile
 name        : Shivang Dubey
-role        : B.Tech CSE (AI/ML), 1st year
+role        : B.Tech CSE (AI/ML), 3rd year
 location    : Ghaziabad, India
 focus       : penetration testing | network security | security analysis
 currently   : building AI-driven attack forecasting (OracleShield)
